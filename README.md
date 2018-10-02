@@ -1,4 +1,4 @@
-## Ceedit
+## Credit
 https://github.com/caarlos0/env
 
 ## Example
