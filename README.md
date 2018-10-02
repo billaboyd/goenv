@@ -11,7 +11,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/caarlos0/env"
+	"github.com/billaboyd/goenv"
 )
 
 type config struct {
