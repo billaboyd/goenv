@@ -1,6 +1,8 @@
 ## Credit
 https://github.com/caarlos0/env
 
+for use education
+
 ## Example
 A very basic example (check the examples folder):
 
